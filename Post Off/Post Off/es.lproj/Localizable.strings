@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  Post Off
+
+  Created by René on 13/01/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+"SELECT" = "Selecciona";
+"TEXT" = "Texto";
+"DROPDOWN" = "Desplegable";
+
+"DRAFT" = "Borrador";
+"PUBLISH" = "Publicado";
+
+"DASHBOARD" = "Escritorio";
+"CATEGORIES" = "Categorías";
+"POSTS" = "Posts";
+"CUSTOM_FIELDS" = "Campos personalizados";
+
+"START" = "Inicio";
+"NEW_POST" = "Nuevo post";
+"EDIT_POST" = "Editar post";
+"MANAGE_POSTS" = "Gestionar posts";
+"TRASH" = "Papelera";
+"MANAGE_CATEGORIES" = "Gestionar categorías";
+"MANAGE_CUSTOM_FIELDS" = "Gestionar campos p.";
+
+"SURE_DELETE" = "¿Estás seguro de que quieres borrar estos elementos?";
+"INFO_TRASH" = "Los posts seleccionados serán enviados a la papelera.";
+"CANCEL" = "Cancelar";
+"DELETE" = "Borrar";
+"NONE" = "Ninguna"; 
+
+"UPDATED_FROM_BLOG" = "¿Has editado este post en tu esctitorio de Wordpress?";
+"INFO_UPDATE" = "Si lo has hecho, el post local debe ser actualizado para mantener sincronizadas ambas versiones.";
+"YES" = "Sí";
+"NO" = "No";
+"UPDATE" = "Actualizar";
+
+"SYNCING_LOCAL_POST" = "Sincronizando post local...";
+"SYNCING_POSTS" = "Sincronizando posts...";
+"SYNCING_CATEGORIES" = "Sincornizando categorías...";
+
+"PERMANENTLY_DELETE" = "These items will be permanently deleted.";
+"UNABLE_CONNECT_HOST" = "No ha sido posible conectar con el host.";
+
+"DONE_PUBLISHED" = "¡Hecho! Tu artículo ha sido editado correctamente.";
+"DONE_EDITED" = "¡Hecho! Tu post ha sido editado correctamente.";
+
+"SURE_RECOVER" = "¿Estás seguro de que quieres recuperar estos elementos?";
+"RECOVER" = "Recuperar";
+"INFO_RECOVER" = "Estos posts estarán diponibles en la pantalla de gestión de posts como borradores.";
+
+"QUOTE" = "cita";
+"CLOSE_QUOTE" = "/cita";
+"CODE" = "código";
+"CLOSE_CODE" = "/código";
+
+"SURE_BAD_CREDENTIALS" = "¿Estás seguro de que quieres continuar?";
+"INFO_CREDENTIALS" = "Si continuas sin establecer correctamente tus credenciales no podrás publicar posts ni sincronizar hasta que cambies tus datos en el panel de preferencias.";
+

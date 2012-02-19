@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'Post Off' target in the 'Post Off' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+	#import "DDLog.h"
+	#import "UserDefaultsHelper.h"
+    #import "RegexKitLite.h"
+	#ifdef DEBUG_MODE
+		static const int ddLogLevel = LOG_LEVEL_VERBOSE;
+	#else
+		static const int ddLogLevel = LOG_LEVEL_WARN;
+	#endif
+#endif

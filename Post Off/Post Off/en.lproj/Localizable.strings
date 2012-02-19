@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Post Off
+
+  Created by René on 13/01/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+"SELECT" = "Select";
+"TEXT" = "Text";
+"DROPDOWN" = "Dropdown";
+
+"DRAFT" = "Draft";
+"PUBLISH" = "Publish";
+
+"DASHBOARD" = "Dashboard";
+"CATEGORIES" = "Categories";
+"POSTS" = "Posts";
+"CUSTOM_FIELDS" = "Custom Fields";
+
+"START" = "Start";
+"NEW_POST" = "New post";
+"EDIT_POST" = "Edit post";
+"MANAGE_POSTS" = "Manage posts";
+"TRASH" = "Trash";
+"MANAGE_CATEGORIES" = "Manage categories";
+"MANAGE_CUSTOM_FIELDS" = "Manage custom f.";
+
+"SURE_DELETE" = "Are you sure you want delete these items?";
+"INFO_TRASH" = "These items will be sent to trash.";
+"CANCEL" = "Cancel";
+"DELETE" = "Delete";
+"NONE" = "None"; 
+
+"UPDATED_FROM_BLOG" = "Did you update this post on your Wordpress dashboard?";
+"INFO_UPDATE" = "If so, the local version must be updated to keep both versions synced.";
+"YES" = "Yes";
+"NO" = "No";
+"UPDATE" = "Update";
+
+"SYNCING_LOCAL_POST" = "Syncing local post...";
+"SYNCING_POSTS" = "Syncing posts...";
+"SYNCING_CATEGORIES" = "Syncing categories...";
+
+"DONE_PUBLISHED" = "Done! Your post was edited correctly.";
+"DONE_EDITED" = "Done! Your post was edited correctly.";
+
+"PERMANENTLY_DELETE" = "These items will be permanently deleted.";
+"UNABLE_CONNECT_HOST" = "Unable to connect to host.";
+
+"SURE_RECOVER" = "Are you sure you want recover this items?";
+"RECOVER" = "Recover";
+"INFO_RECOVER" = "Thess items will be available on the \"Manage Posts\" screen as drafts";
+
+"QUOTE" = "quote";
+"CLOSE_QUOTE" = "/quote";
+"CODE" = "code";
+"CLOSE_CODE" = "/code";
+
+"SURE_BAD_CREDENTIALS" = "Are you sure you want to continue?";
+"INFO_CREDENTIALS" = "If you continue without setting up your credentials, you won't be able to publish or sync until you change them on the preferences panel.";
